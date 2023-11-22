@@ -11,3 +11,10 @@ of your character and save it locally on your machine.</p>
   <li>C#</li>
   <li>Windows Forms</li>
 </ul>
+
+<h1>How to use it youself</h1>
+<ul>
+  <li>Download the code as a zip file or copy the repository</li>
+  <li>Go to: D-D-character-creator-main\DD\D-D-Character-Program-master\Section 1 Character Creation\Section 1 Character Creation\bin\Debug\netcoreapp3.1</li>
+  <li>Find and run the Section 1 Character Creation.exe</li>
+</ul>
