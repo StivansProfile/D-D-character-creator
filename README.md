@@ -9,5 +9,5 @@ of your character and save it locally on your machine.</p>
 <h1>Technologies used</h1>
 <ul>
   <li>C#</li>
-  <li>WinUi</li>
+  <li>Windows Forms</li>
 </ul>
